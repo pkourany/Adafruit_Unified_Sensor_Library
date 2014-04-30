@@ -36,7 +36,7 @@
 #ifndef _TSL2561_H_
 #define _TSL2561_H_
 
-#include <Adafruit_Sensor.h>
+#include "Adafruit_Sensor.h""
 
 #define TSL2561_VISIBLE 2                   // channel 0 - channel 1
 #define TSL2561_INFRARED 1                  // channel 1
