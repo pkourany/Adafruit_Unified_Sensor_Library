@@ -16,9 +16,9 @@
 #ifndef __ADAFRUIT_9DOF_H__
 #define __ADAFRUIT_9DOF_H__
 
-#include <Adafruit_Sensor.h>
-#include <Adafruit_LSM303_U.h>
-#include <Adafruit_L3GD20_U.h>
+#include "Adafruit_Sensor.h"
+#include "Adafruit_LSM303_U.h"
+#include "Adafruit_L3GD20_U.h"
 
 /** Sensor axis */
 typedef enum
